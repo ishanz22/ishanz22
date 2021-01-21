@@ -2,7 +2,7 @@
 
 Im Ahsan ! 😃
 
-I'm a Front End & Back End Software Developer and UI/UX Javascript Specialist. 😉
+Im a Front End & Back End Software Developer and UI/UX Javascript Specialist. 😉
 
 Im Really Intrested in Java. ❤️
 
