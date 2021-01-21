@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/ishanzloro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shanzloro" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ishanz-loro-42b9101ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ishanz-loro-42b9101ba" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mohomed ahsan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mohomed ahsan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15020040/mohomed-ahsan?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mohomed ahsan" height="30" width="40" /></a>
 <a href="https://instagram.com/ishanz_loro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shanz_loro" height="30" width="40" /></a>
 </p>
 
