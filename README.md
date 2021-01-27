@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ahsan</h1>
-<h4 align="center">A passionate Software Developer from Sri Lanka</h4>
+<h3 align="center">A passionate Software Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanz22&label=Profile%20views&color=0e75b6&style=flat" alt="ishanz22" /> </p>
 
