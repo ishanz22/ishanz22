@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **app development, UI/UX design, or anything else you'd like to know 😍**
 
-- 📫 You can reach me at **ishanzloro22@gmail.com**
+- 📫 You can reach me at **[LinkedIn](https://www.linkedin.com/in/mohomedahsan/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
